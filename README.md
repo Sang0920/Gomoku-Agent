@@ -1,1 +1,1 @@
-# Gomoku-Agent
+# Gomoku Agent
